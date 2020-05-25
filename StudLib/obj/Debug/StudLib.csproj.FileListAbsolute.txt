@@ -1,0 +1,6 @@
+C:\Users\acer\source\repos\CshGit9\StudLib\bin\Debug\StudLib.dll
+C:\Users\acer\source\repos\CshGit9\StudLib\bin\Debug\StudLib.pdb
+C:\Users\acer\source\repos\CshGit9\StudLib\obj\Debug\StudLib.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\CshGit9\StudLib\obj\Debug\StudLib.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\CshGit9\StudLib\obj\Debug\StudLib.dll
+C:\Users\acer\source\repos\CshGit9\StudLib\obj\Debug\StudLib.pdb

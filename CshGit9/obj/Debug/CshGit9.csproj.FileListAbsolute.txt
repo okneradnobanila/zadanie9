@@ -1,0 +1,10 @@
+C:\Users\acer\source\repos\CshGit9\CshGit9\bin\Debug\CshGit9.exe.config
+C:\Users\acer\source\repos\CshGit9\CshGit9\bin\Debug\CshGit9.exe
+C:\Users\acer\source\repos\CshGit9\CshGit9\bin\Debug\CshGit9.pdb
+C:\Users\acer\source\repos\CshGit9\CshGit9\bin\Debug\StudLib.dll
+C:\Users\acer\source\repos\CshGit9\CshGit9\bin\Debug\StudLib.pdb
+C:\Users\acer\source\repos\CshGit9\CshGit9\obj\Debug\CshGit9.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\CshGit9\CshGit9\obj\Debug\CshGit9.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\CshGit9\CshGit9\obj\Debug\CshGit9.csproj.CopyComplete
+C:\Users\acer\source\repos\CshGit9\CshGit9\obj\Debug\CshGit9.exe
+C:\Users\acer\source\repos\CshGit9\CshGit9\obj\Debug\CshGit9.pdb
